@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy New Year 🎉</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<canvas id="fireworks"></canvas>
+
+<div class="box">
+  <h1 id="wish">🎆 Happy New Year 2026 🎆</h1>
+
+  <input type="text" id="name" placeholder="Enter your name">
+  <button onclick="showWish()">Wish Me</button>
+
+  <p class="share">🔗 Share this website with friends</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
